@@ -231,6 +231,8 @@ function launchMetals(
       "doctor-run",
       "compile-cascade",
       "compile-cancel",
+      "ammonite-start",
+      "ammonite-stop",
     ];
 
     commands.forEach((command) => {

@@ -292,6 +292,16 @@
         "command": "metals.new-scala-file",
         "category": "Metals",
         "title": "Create a new Scala file"
+      },
+      {
+        "command": "metals.ammonite-start",
+        "category": "Metals",
+        "title": "Start Ammonite build server"
+      },
+      {
+        "command": "metals.ammonite-stop",
+        "category": "Metals",
+        "title": "Stop Ammonite build server"
       }
     ]
   },
